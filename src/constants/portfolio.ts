@@ -5,7 +5,7 @@ export const skills: SkillGroup[] = [
   { label: 'Frontend', items: ['React', 'Tailwind CSS', 'Responsive Design', 'Framer Motion'] },
   { label: 'Database', items: ['SQL Server', 'MySQL', 'Database Design', 'Database Management'] },
   { label: 'Tools & Technologies', items: ['Git', 'GitHub', 'VS Code', 'Visual Studio', 'Canva', 'Figma'] },
-  { label: 'Currently Learning', items: ['Node.js', 'Express.js', 'Cyber Security', 'AWS'] },
+  
 ]
 
 export const projects: Project[] = [
